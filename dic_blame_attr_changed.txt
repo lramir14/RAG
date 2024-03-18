@@ -1,0 +1,528 @@
+%
+1	government.policy
+2	economic.situation
+3	external.economic
+4 	external.security 
+%
+
+Taxation 	1
+Taxes 		1
+VAT 		1
+tax rate 	1
+tax policy 	1
+tax strategy 	1
+tax policies 	1	
+High state expenditure 	1
+high state debt 	1	
+high government expenditure 1 
+fiscal deficit  	1
+fiscal commitments 	1
+expansion fiscal policy 1
+current account balance 1
+state overreach 	1
+little financial capacity 1 
+less financial capacity 1
+Brexit 			1
+UK’s secession from EU  1
+Britain’s exit from the EU 1
+ Welfare spending 	1
+social expenditure 	1
+public assistance expenditures 1
+social safety spending 	1	 
+public welfare 		1
+social protection 	1
+Federal and state financial policies 1
+regional econoimc policies 1
+regional expenses 	1
+fiscal federalism 	1
+subnation fiscal policy 1
+ Administrative challenges 1
+Expansion of the state sector 1
+public sector growth 	1
+statization 		1
+public sector deepening 1
+welfarse state development 1
+state interventionism 	1
+Previous government’s financial decisions 1
+Past administration's fiscal policies 	1
+Predecessor's financial strategies 	1
+Former government's budgetary choices 	1
+Antecedent administration's spending priorities 1
+Historical fiscal actions 1
+Previous financial policy 1
+Social expenditures	1
+welfare spending	1
+public spending 1
+Social investment 	1
+social safety net expenditures 1
+social services spending 1
+state welfare contributions 1
+Public welfare allocation 1
+Governmental health and welfare spending 1
+State overreach	1
+high state expenditures	1
+Less financial capacity 1
+State interventionism 	1
+Regulatory excess 	1
+government intrusion 	1
+Government spending surge 1
+Public sector expansion 1
+fiscal constraint 	1
+budgetary tightness 	1
+reduced fiscal space 	1
+economic capacity strain 1
+Complexity of current system 1
+Policy intricacy 	1
+regulatory complexity 	1
+policy layering 	1
+governance entanglement 1
+administrative complexity 1 
+National Debt		1
+Public debt 		1
+Government debt		1
+sovereign debt 		1
+federal debt		1
+state debt 		1
+fiscal liabilities 	1
+external debt		1
+Previous government  	1
+Former administrations 	1
+Past regimes 		1	
+antecedent governments  1
+prior administrations	1
+predecessor governments	1
+legacy governments 	1
+earlier administrations	1
+Previous government and their policies	1
+former policies 	1
+former tax policies 	1
+previous family care policies 	1
+historical economic policies	1
+past policies 			1
+previous policy cycles		1
+previous social programs	1	
+historical housing policies	1
+previous housing policies  	1
+Existing tax system and tax structure	1
+loopholes in the taxation system	1
+Current tax regime		1
+taxation framework 		1
+tax policy landscape 		1
+Tax loophole provisions		1	
+existing tax loopholes		1
+tax avoidance schemes 		1
+inequities in the tax system 	1
+tax benefit niches 		1
+tax code 			1	
+Debt 				1
+Public debt			1
+national borrowing 		1
+sovereign debt 			1
+fiscal obligations 		1
+state indebtedness 		1
+external debt 			1
+domestic debt 			1
+debt stock			1
+debt burden 			1
+Excessive income tax		1
+High tax burden			1
+punitive taxation		1
+progressive tax pressure 	1
+taxation overload 		1
+taxation disparity 		1
+disincentive to earnings 	1
+Excessive public spending	1
+Financial imprudence		1
+fiscal irresponsibility 	1
+budgetary excess		1
+taxpayer burden increase 	1
+Monetary policies		1
+Interest rate 			1
+Discount rate 			1	
+Inflation targeting		1
+monetary base 			1
+exchange rate 			1
+National insurance surcharges	1
+Social security levies		1
+Healthcare surtax		1
+Payroll tax surcharges		1
+Welfare contribution increases	1
+Pension fund surtax		1
+Unemployment insurance surcharges 1	
+contribution scales		1
+Societal Challenges		2
+Social inequality		2
+Public health 			2
+Educational disparities		2
+Crime and safety 		2
+Environmental degradation	2
+Climate change inequality 	2
+Political instability		2
+Racial and ethnic tensions	2
+Gender inequality		2
+Aging population 		2
+Access to housing		2
+Demographic changes		2
+Aging society			2
+Migration trends		2	
+Urbanization			2
+Population growth or decline	2
+Fertility rate fluctuations	2
+Changing family structure	2	
+Labor force 			2
+Rural to urban migration	2
+unemployment 			2
+Workforce redundancy		2
+High youth unemployment		2
+Long-term unemployment		2
+Labor market 			2	
+Skill mismatches		2
+Cyclical unemployment		2
+Structural unemployment		2
+Seasonal unemployment		2
+inflation			2
+Price rise			2
+Rising prices			2
+Cost-push inflation		2
+Demand-pull inflation		2
+Hyperinflation			2
+Stagflation			2
+Wage inflation			2
+Monetary inflation		2
+Sector transitions		2
+economy transitions		2
+Industrial transformation	2	
+Digital economy shift		2
+Green economy transition	2
+Service sector expansion	2
+Manufacturing decline		2	
+Gig economy 			2
+Energy sector shifts		2
+Agricultural modernization	2
+Economic diversification	2
+Knowledge economy		2
+Disparity between rich and poor regions 2
+Unequal wealth distribution	2
+Income disparity		2
+Wealth concentration		2
+Economic inequality		2
+Capital accumulation 		2
+Socioeconomic inequality	2	
+Economic stratification		2
+Fiscal inequality		2
+Wealth inequality		2
+Modernization			2
+Industrialization		2
+Technological innovation	2
+Economic development		2
+Digital transformation		2
+Infrastructure development	2
+Globalization			2
+Growing sectors			2
+Emerging industries		2
+High-tech sector growth		2
+Renewable energy expansion	2
+Biotechnology 			2
+Information technology		2
+E-commerce 			2
+FinTech development		2
+Healthcare sector		2
+Creative industries 		2
+Educational technology		2
+Sector challenges		2
+Climate change			2
+Water scarcity			2
+Soil degradation		2
+Agricultural productivity	2
+Sustainable farming 		2
+Food security 			2
+Market access			2
+Technological adoption		2
+Rural development 		2
+Supply chain disruptions	2	
+Infrastructure needs		2
+Transportation networks 	2
+Energy infrastructure 		2
+Water and sanitation		2
+Digital infrastructure 		2
+Health care facilities 		2
+Educational infrastructure 	2	
+Sustainable infrastructure 	2
+Urban planning and 		2
+Disaster resilient 		2
+Green infrastructure 		2
+Changing labor market dynamics	2
+Automation			2
+Remote work 			2
+Gig economy 			2
+Skill demands evolution		2
+Labor mobility			2
+Freelancing growth		2
+Precarious employment		2
+Labor force 			2
+Aging workforce 		2
+Job creation 			2
+Technological development 	2
+technological advances		2
+Innovation and R&D		2
+Digitalization			2
+Artificial intelligence 	2
+Robotics and automation		2
+Internet of Things 	 	2
+Renewable energy technologies	2
+Nanotechnology			2	
+Recession			2
+Economic downturn		2
+Financial crisis		2
+Business cycle 			2
+Economic slowdown		2
+Deflationary spiral		2
+Unemployment rise		2
+Investment decline		2
+Consumer confidence 		2
+Structural and technological changes in industry	2
+technological transition	2
+technological advances		2
+Industry transformation		2
+Manufacturing automation	2
+Digital workplace		2
+Green technology 		2
+Supply chain innovation		2
+E-commerce 			2
+Renewable energy 		2
+Biotech and pharmaceutical advances	2
+Information technology 		2
+Labor market restructuring	2
+Societal needs			2
+Health care access		2
+health care affordability	2
+Quality education 		2
+Environmental protection	2
+sustainability			2
+Affordable and safe housing	2
+Employment opportunities 	2
+job security			2
+Social security and welfare support	2
+Clean water			2
+sanitation			2
+Reliable and renewable energy sources	2
+Public safety and crime prevention	2
+Digital connectivity 		2
+Access to information		2
+Tax evasion			2	
+Illicit financial flows		2
+Money laundering		2
+Corporate tax avoidance		2
+Tax avoidance			2
+Transfer pricing manipulation	2
+Fake or inflated deductions	2
+Unreported cash transactions	2
+Coal industry strikes		2
+Labor disputes			2
+Union negotiations 		2
+Union demands			2
+Worker rights 			2
+Safety concerns			2
+Production halts and shortages	2
+Economic impact on local communities	2
+Environmental activism and opposition	2
+Energy policy debates		2
+Alternative energy transition 	2
+Supply chain disruptions in energy sector 2	
+Government intervention and mediation efforts 2
+Consumers’ behavior 		2	
+Purchasing patterns 		2
+Purchasing trends		2
+inflation effects		2
+Digital shopping 		2
+E-commerce growth		2	
+Sustainable and ethical consumption 	2
+Social media and peer influence	2
+Demographic shifts in consumption habits	2
+Illegal immigration 		2
+Border security 		2
+Border control			2
+Labor market impacts and wages	2
+Undocumented worker exploitation 	2	
+Remittances and economic contribution	2
+Refugee and asylum seeker influx	2
+Human trafficking 		2
+Immigration reform		2
+Visa overstays and enforcement challenges	2
+Regional inequality 		2
+Economic disparities 		2
+Access to basic services	2
+Infrastructure development gaps	2
+Investment and business development imbalances	2
+Urban-rural economic divides	2
+Technology access and digital divide		2
+Income and wealth distribution 	2
+Labor market opportunities	2	
+Environmental quality and access to natural resources 	2
+Government policy and fiscal transfer effectiveness	2
+Slow growth			2
+Economic stagnation		2
+Low productivity 		2
+Investment slowdown		2
+High unemployment 		2
+Consumer spending reduction	2
+Fiscal austerity measures	2
+Export competitiveness issues	2
+Technological innovation lags	2
+Demographic challenges 		2
+Aging populations		2
+Previous economic instability 	2
+Financial crises 		2
+Stock market volatility		2
+Sovereign debt crises		2
+Currency devaluations and inflation	2
+Economic bubbles 		2
+Unemployment spikes		2
+Government bailouts		2
+Government interventions	2
+Corporate bankruptcies and restructuring	2
+Trade imbalances		2
+Trade protectionism		2
+Recession			2
+Economic contraction 		2
+Declining gross domestic product	2
+GDP				2
+Business cycle 			2	
+Rising unemployment		2 
+Rising layoffs 			2
+Decreased consumer and business spending	2
+Credit crunch 			2
+Reduced lending			2
+Fiscal and monetary policy responses	2
+Recovery and growth forecasts	2
+Impact on global economic conditions 	2
+External crises			3
+Global financial crises	3
+International trade conflicts and tariffs	3
+Oil price shocks 	3
+Energy crises	3
+Pandemics 	3
+Global health emergencies	3
+Natural disasters 	3
+Global supply chains disruptions	3
+Political instability 	3
+conflicts affecting international relations	3
+Climate change impacts	3
+Emerging market debt crises	3
+Geopolitical tensions and sanctions	3
+Environmental degradation	3
+Previous financial policies	3
+Fossil fuel	3
+Green financing	3
+pollution control 	3
+funding for renewable energy research	3
+Tax incentives for non-renewable energy sources	3
+Environmental standards in financial sectors	3
+Lack of carbon pricing mechanisms	3
+lack of carbon taxes	3
+lack of cap-and-trade systems	3
+Underinvestment in sustainable infrastructure	3
+Financial policies neglecting climate risk assessments	3
+Delayed divestment from fossil fuel industries	3
+Global economic integration	3
+Increased global trade leading	3
+Cross-border pollution 	3
+Overexploitation of natural resources	3
+Carbon footprint of international supply chains	3
+Loss of biodiversity from global agricultural expansion	3
+Environmental impact of global mining operations	3
+Water scarcity exacerbated by global food and beverage industries	3
+Waste and plastic pollution from global consumer goods production	3
+Global transportation emissions contributing to climate change	3
+Deforestation for agricultural exports	3
+Global oil crisis	3
+Increased exploration and drilling 	3
+Oil spills and marine pollution	3
+Air pollution from burning oil and petroleum products	3
+Habitat destruction for new oil infrastructure	3
+Increased carbon emissions	3
+Water contamination from fracking and extraction processes	3
+Land degradation from oil field development	3
+Biodiversity loss in areas of oil production	3
+Conflict and displacement in oil-rich regions	3
+Dependency on oil hindering renewable energy transition	3
+Energy crisis	3
+Overreliance on coal and other high-polluting energy sources	3
+Deforestation for biomass energy production	3
+Environmental degradation from hydropower projects	3
+Soil and water pollution from nuclear energy accidents	3
+Increased emissions from emergency use of backup generators	3
+Air quality degradation from increased coal usage	3
+Land use conflicts for energy infrastructure	3
+Water scarcity exacerbated by energy production demands	3
+Wildlife disruption from energy extraction and transportation	3
+Overexploitation of geothermal resources	3
+Energy Transition	3
+Decommissioning of fossil fuel plants and restoration of sites	3
+Environmental impact assessments for renewable energy projects	3
+Sustainable land use for solar and wind farms	3
+Biodiversity conservation in energy transition planning	3
+Water use and management in renewable energy production	3
+Recycling and disposal of solar panels and wind turbines	3
+Minimizing habitat disruption from new energy infrastructure	3
+Clean energy technologies 	3
+Transition policies supporting reforestation and carbon sequestration	3
+Community engagement and social impacts of energy transition projects	3
+Natural disaster	3
+flood	3
+weather event	3
+catastrophe	3
+earthquake	3
+hurricane	3
+typhoon	3
+tornado	3
+drought	3
+heatwave	3
+blizzard	3
+tsunami	3
+wildfire	3
+extreme temperatures	3
+Financial crisis	3
+banking crisis	3
+Globalization	3
+Covid 19	3
+pandemic	3
+COVID-19	3
+corona	3
+corona virus	3
+covid	3
+global health crisis	3
+Carbon emission	3
+climate change	3
+environmental issue	3
+climate crisis	3
+global warming	3
+global heating	3
+environmental crisis	3
+Oil prices	3
+oil crisis	3
+energy crisis	3
+energy prices	3
+fuel crisis	3
+oil shock	3
+Global changes	3
+German Unification	4
+German Integration	4
+Geopolitics	4
+defense	4
+ defense needs	4
+Economic impact of war	4
+economic reconstruction needs	4
+International obligations	4
+international regulations	4
+Iraq War	4
+9|11	4
+terrorism	4
+Middle East Stability 	4
+Problems in Europe	4
+Europe’s instability 	4
+Ukraine	4
+Russian invasion	4
+Ukraine-Russia War	4
+
+
